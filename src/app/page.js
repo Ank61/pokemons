@@ -1,11 +1,7 @@
 "use client"
 
-"use client"; // Mark as client component since we use hooks
-
 import { useState, useEffect } from "react";
 import Link from "next/link";
-
-
 export default function Home() {
   const [pokemonList, setPokemonList] = useState([]);
   const [search, setSearch] = useState("");
