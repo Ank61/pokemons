@@ -1,9 +1,13 @@
-# Pokémon Explorer
+# Pokemon Explorer
 
-A Next.js web app to explore Pokémon using the PokeAPI.
+A Test app to explore Pokemon using the PokeAPI.
+Live Link : https://pokemons-sooty-xi.vercel.app/
+Since I did this in 3 hrs as i did not got time. I have not applied Optional requirements.
+I have use App Router.
+
 
 ## Setup
-1. Clone the repo: `git clone <repo-url>`
+1. Clone the repo: `git clone https://github.com/Ank61/pokemons.git`
 2. Install dependencies: `npm install`
 3. Run the app: `npm run dev`
 4. Open `http://localhost:3000` in your browser.
