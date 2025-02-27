@@ -2,8 +2,6 @@
 
 import { useState, useEffect } from "react";
 import { useParams } from "next/navigation";
-
-
 export default function PokemonDetail() {
   const params = useParams();
   const id = params?.id;
